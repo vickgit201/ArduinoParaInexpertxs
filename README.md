@@ -1,4 +1,4 @@
 # ArduinoParaInexpertxs
 Arduino para Inexpertxs considera los conocimientos básicos para empezar a trabajar con tu tarjeta eléctronica.
 
-![fotito de arduino](./arduino.jpg)
+![foto de r3](./R3Presentation.jpg)
