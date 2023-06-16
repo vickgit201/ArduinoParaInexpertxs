@@ -11,5 +11,7 @@ Hola! Mi nombre es Victoria (Vick) y soy estudiante de Diseño. He creado está 
 ¿Qué es Arduino?
 
 ![foto de arduino logo 1](./arduinologo1.jpg)
+
 ![foto de arduino logo 2](./arduinologo2.jpg)
+
 ![foto de arduino pagina web](./arduinoweb.jpg)
