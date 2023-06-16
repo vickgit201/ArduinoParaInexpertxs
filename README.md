@@ -10,6 +10,8 @@ Hola! Mi nombre es Victoria (Vick) y soy estudiante de Diseño. He creado está 
 
 ¿Qué es Arduino?
 
+Arduino es una plataforma electrónica de código abierto basada en hardware y software fáciles de usar. Las placas Arduino pueden leer entradas (luz en un sensor, un dedo en un botón o un mensaje de Twitter) y convertirlo en una salida: activar un motor, encender un LED, publicar algo en línea. Puede decirle a su placa qué hacer enviando un conjunto de instrucciones al microcontrolador en la placa. Para ello se utiliza el lenguaje de programación Arduino (basado en Wiring), y el Software Arduino (IDE), basado en Processing.
+
 ![foto de arduino logo 1](./arduinologo1.png)
 
 ![foto de arduino logo 2](./arduinologo2.png)
